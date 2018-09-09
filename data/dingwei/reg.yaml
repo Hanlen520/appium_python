@@ -1,0 +1,23 @@
+---
+-
+  element_info: com.ss.android.ugc.aweme:id/b3z
+  find_type: id
+  index: 0
+  operate_type: click
+-
+  element_info: com.ss.android.ugc.aweme:id/apll
+  find_type: id
+  index: 0
+  operate_type: click
+-
+  element_info: com.ss.android.ugc.aweme:id/a63
+  find_type: id
+  index: 0
+  operate_type: click
+  key: assert
+
+  element_info: com.ss.android.ugc.aweme:id/a63
+  find_type: id
+  index: 0
+  operate_type: text
+  key: assert

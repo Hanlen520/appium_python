@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e227e6ce-2694-4b92-bf48-35dcb086a6e7" name="默认的" comment="" />
+    <list default="true" id="e227e6ce-2694-4b92-bf48-35dcb086a6e7" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/app自动化测试用例.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/testreg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dingwei/reg.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testcase_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/appium.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_13m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_16m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_20m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_28m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_31m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_34m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_36m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_37m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_41m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_43m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04 23h_44m_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2018-09-04-23-44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/HTMLTestReportCN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/elemen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/emails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/getdata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/memory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/phone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/py_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untils/yamls.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,29 +161,29 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
-      <window_info anchor="bottom" id="调试" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.32755905" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49926794" visible="true" weight="0.32755905" />
-      <window_info anchor="bottom" id="运行" />
+      <window_info anchor="bottom" id="调试" order="7" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.32755905" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49853587" visible="true" weight="0.32755905" />
+      <window_info anchor="bottom" id="运行" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="找到" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="找到" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
